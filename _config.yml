@@ -1,0 +1,8 @@
+title: Anime Music Player
+description: Java command line music player for playing your favorite anime theme songs.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
